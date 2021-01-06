@@ -1,2 +1,6 @@
-# dogadoptionwebsite
-Website for dog adoption
+# Seattle Dog Adoption Website
+
+## Author
+
+Judith Reyes
+
