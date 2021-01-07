@@ -1,15 +1,25 @@
 body {
-background-color: coral;
+background-color: rbg(240, 153, 122);
 } 
 
 header, footer {
-    background-color: coral;
+    background-color: rgb(240, 153, 122);
     text-align: center;
 
 }
 
 section{ 
-    background-color: beige;
+    background-color: rgb(248, 204, 163);
     text-align: center;
     border: white 1px
+}
+
+#mainpic {
+    height: 400px;
+    width: 800px;
+}
+
+#shiba {
+    height: 400px;
+    width: 600px;
 }
